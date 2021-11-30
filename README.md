@@ -10,7 +10,7 @@ Use arrow keys to walk in the forest.
 
 notice the different tile types - some you are able to walk on and some you can't.
 
-use the X button along with the arrow keys to mine in the mountains.
+Use the X button along with the arrow keys to mine in the mountains.
 <br/>
 
 ## Components
