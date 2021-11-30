@@ -1,21 +1,23 @@
 # MineInTheForest
 
 Mine Your path in the forest!
+
 Walk in the forest and mine your path.
 <br/>
 
 ## Instructions:
-Use arrow keys to walk in the forest,
+Use arrow keys to walk in the forest.
+
 notice the different tile types - some you are able to walk on and some you can't.
-use the X button to mine in the mountains along with the arrow keys.
+
+use the X button along with the arrow keys to mine in the mountains.
 <br/>
 
 ## Components
 
-**[GameOver](Assets/Scripts/GameOver.cs) -** Used with an edge colider to end the game when player fall down from the screen. 
-<br />
+**[KeyboardMoverByTile](Assets/Scripts/2-player/KeyboardMoverByTile.cs) -** Added a condition to be able to mine.
 
-**[KeyboardForce](Assets/Scripts/KeyboardForce.cs) -** Controls the player's dynamic movement using forces.
+The component allows the player to move by clicking the arrow keys, only if the new position is on an allowed tile.
 <br />
 
 ## External Links
