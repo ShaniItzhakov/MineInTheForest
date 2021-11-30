@@ -12,7 +12,7 @@ notice the different tile types - some you are able to walk on and some you can'
 
 Use the X button along with the arrow keys to mine in the mountains.
 
-Load the scene: b-tile-movement.unity.
+Load the scene: 'b-tile-movement.unity' from player scenes.
 <br/>
 
 ## Components
