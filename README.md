@@ -19,7 +19,11 @@ Load the scene: 'b-tile-movement.unity' from player scenes.
 
 **[KeyboardMoverByTile](Assets/Scripts/2-player/KeyboardMoverByTile.cs) -** Added a condition to be able to mine.
 
-The component allows the player to move by clicking the arrow keys, only if the new position is on an allowed tile.
+The component allows the player to move, only if the new position is on an allowed tile.
+
+It inheritor from KeyboardMover to allow player movement using the arrow keys.
+
+**[KeyboardMover](Assets/Scripts/2-player/KeyboardMover.cs) -** This component allows the player to move by clicking the arrow keys.
 <br />
 
 ## External Links
