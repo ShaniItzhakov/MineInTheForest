@@ -1,4 +1,4 @@
-# MineInTheForest
+# Mine In The Forest
 
 Mine Your path in the forest!
 
